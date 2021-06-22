@@ -82,7 +82,7 @@ msgstr "Description:"
 
 #: en.json:3
 msgid "Add book modal: book is published warning.defaultMessage"
-msgstr "Warning: the new book will be added as "Draft", and will not be visible in your published portal until you publish it."
+msgstr "Warning: the new book will be added as 'Draft', and will not be visible in your published portal until you publish it."
 
 #: en.json:3
 msgid "Add book modal: book name.defaultMessage"
